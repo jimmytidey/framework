@@ -1,11 +1,14 @@
+<? 
+//include framework 
+include('framework.php'); 
+?>
+
+
 <!DOCTYPE html>
 <html>
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>Waiting</title>
-		
-		<!-- include config script --> 
-		<? include("config.php") ?>
 		
 		<!--  Main Script -->		
 		<script type="text/javascript" charset="utf-8" src='script/master.js'></script>
